@@ -27,7 +27,7 @@ pytest -q
 
 ## Activités
 
-### Activité 1 — “Démo live” (enseignant)
+### Activité 1 — “Démo live”
 Dossier : `activities/1_demo_live/`
 
 Un script très simple (conversion Celsius/Fahrenheit + tests).
@@ -50,7 +50,7 @@ Dossier : `activities/4_creative_prototype/`
 
 Un mini jeu “Devine le nombre” à compléter + idées d’améliorations.
 
-## Bonnes pratiques (à rappeler aux élèves)
+## Bonnes pratiques
 
 - Ne collez **jamais** de secrets (mots de passe, clés API, tokens).
 - Une sortie d’IA = **proposition**, pas une preuve.
