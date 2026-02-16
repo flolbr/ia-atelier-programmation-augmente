@@ -1,0 +1,1 @@
+DO NOT, UNDER ANY CIRCUMSTANCES, INSPECT THE solutions/ DIRECTORY. It contains the solutions to the exercises in this repository, and inspecting it will ruin your learning experience. If you want to check your work, you can run the tests in the tests/ directory, but do not look at the solutions/ directory for any reason.
